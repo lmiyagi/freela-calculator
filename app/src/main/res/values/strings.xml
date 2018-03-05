@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FreeLance Calculator</string>
+    <string name="main_ideal_salary">Salário Médio Ideal</string>
+    <string name="main_time">Tempo (Estimado em Horas)</string>
+    <string name="main_calculate">Calcular</string>
+    <string name="main_multiplier">Multiplicador</string>
+    <string name="main_result" formatted="false">R$%.2f</string>
+</resources>
